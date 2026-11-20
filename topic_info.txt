@@ -1,0 +1,19 @@
+1. /can_distance
+   - Adattípus: std_msgs/msg/Float32
+   - Átlagos frissítési frekvencia: 20.004 Hz
+
+2. /distance
+   - Adattípus: std_msgs/msg/Float32
+   - Átlagos frissítési frekvencia: 62.525 Hz
+
+3. /occupancy_map
+   - Adattípus: nav_msgs/msg/OccupancyGrid
+   - Átlagos frissítési frekvencia: 20.005 Hz
+
+4. /polynomial_trajectory
+   - Adattípus: visualization_msgs/msg/MarkerArray
+   - Átlagos frissítési frekvencia: 9.996 Hz
+
+5. /tf
+   - Adattípus: tf2_msgs/msg/TFMessage
+   - Átlagos frissítési frekvencia: 123.322 Hz
